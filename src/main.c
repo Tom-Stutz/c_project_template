@@ -1,12 +1,14 @@
 
 
-#include <stdio.h>
-#include "hello.h"
+#include "template.h"
 
-int main(void)
+int main(int argc, char** argv)
 {
 
     printf("Hello, world!\n\r");
     start();
+
+    (void)argc;
+    (void)argv;
     return 0;
 }

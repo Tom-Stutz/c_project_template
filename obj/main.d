@@ -1,1 +1,1 @@
-obj/main.o: src/main.c inc/hello.h
+obj/main.o: src/main.c inc/template.h
