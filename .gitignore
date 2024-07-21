@@ -2,4 +2,4 @@
 .vscode/c_cpp_properties.json
 
 #ignore all .DS_Store files (For Mac computers)
-*.DS_Store
+.DS_Store
