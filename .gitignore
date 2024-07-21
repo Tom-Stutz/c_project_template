@@ -1,2 +1,5 @@
 #Ignore the c_cpp_properties file (This will be specific to every computer)
 .vscode/c_cpp_properties.json
+
+#ignore all .DS_Store files (For Mac computers)
+*.DS_Store
