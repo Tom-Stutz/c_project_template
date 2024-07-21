@@ -5,7 +5,7 @@ This repo is a C project template targeted for VS_Code that uses Make
 ## Install
 
 ```sh
-$ git clone https://github.com/Tom-Stutz/c_project_template.git
+git clone https://github.com/Tom-Stutz/c_project_template.git
 ```
 
 
