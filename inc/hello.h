@@ -1,7 +1,7 @@
 #ifndef __HELLO_H__
 #define __HELLO_H__
 
-#define number 10
+#define number 9
 
 #include <stdio.h>
 

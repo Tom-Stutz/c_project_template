@@ -1,0 +1,2 @@
+#Ignore the c_cpp_properties file (This will be specific to every computer)
+.vscode/c_cpp_properties.json
