@@ -11,10 +11,10 @@
             "program": "${workspaceFolder}/bin/main",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
-            "MIMode": "lldb",
+            "MIMode": "lldb",   //specified debug path (may be different for your device)
             "preLaunchTask": "Build all"
         }
 
